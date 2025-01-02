@@ -17,11 +17,11 @@
 		<description lang="en_GB">A Kodi skin with an omnipresent menu.</description>
 		<description lang="en_US">A Kodi skin with an omnipresent menu.</description>
 		<platform>all</platform>
-		<license>CC BY-NC-SA 4.0</license>
+		<license>MIT License</license>
 		<forum>https://forum.kodi.tv/forumdisplay.php?fid=271</forum>
-		<website></website>
-		<email></email>
-		<source>https://github.com/braz96/skin.omni</source>
+		<website>http://idealkooks.weebly.com</website>
+		<email>thcorporation8@yahoo.com</email>
+		<source>https://github.com/thoffical/skin.omni</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
