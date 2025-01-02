@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.omni"
-  version="2.1.0"
+  version="2.2.0 (Beta)"
   name="Omni"
-  provider-name="braz">
+  provider-name="Team Th">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 		<import addon="script.toolbox" version="1.1.2"/>
