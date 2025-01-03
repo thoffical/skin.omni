@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.omni"
+  id="skin.omni.reloaded.30179"
   version="2.2.0 (Beta)"
   name="Omni"
   provider-name="Team Th">
@@ -17,11 +17,11 @@
 		<description lang="en_GB">A Kodi skin with an omnipresent menu.</description>
 		<description lang="en_US">A Kodi skin with an omnipresent menu.</description>
 		<platform>all</platform>
-		<license>MIT License</license>
+		<license></license>
 		<forum>https://forum.kodi.tv/forumdisplay.php?fid=271</forum>
-		<website>http://idealkooks.weebly.com</website>
-		<email>thcorporation8@yahoo.com</email>
-		<source>https://github.com/thoffical/skin.omni</source>
+		<website></website>
+		<email></email>
+		<source></source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
@@ -36,6 +36,6 @@
 			<screenshot>resources/screenshot-09.jpg</screenshot>
 			<screenshot>resources/screenshot-10.jpg</screenshot>
 		</assets>
-		<news>2.1.0[CR]- Complete redesign of home window with static menu and widgets, can enable/disable items in skin settings.[CR]- Many other fixes and minor changes.</news>
+		<news>2.2.0 (Beta) Revived for omega.</news>
 	</extension>
 </addon>
